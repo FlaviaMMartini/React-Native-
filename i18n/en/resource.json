@@ -1,0 +1,78 @@
+{
+  "formLogin": {
+    "emailPlaceHolder": "",
+    "emailLabel": "",
+    "passwordLabel": "",
+    "passwordPlaceHolder": "",
+    "wrongEmail": "",
+    "submit": "",
+    "forgotPassword": "",
+    "acess": "",
+    "errorLabel": "",
+    "submiting": ""
+  },
+  "employees": {
+    "emptyView": ""
+  },
+  "home": {
+    "emptyView": ""
+  },
+  "pendencies": {
+    "pendencies": ""
+  },
+  "settings": {
+    "emptyView": "",
+    "notificacion": "",
+    "help": "",
+    "version": "",
+    "exit": ""
+  },
+  "signUp": {
+    "emptyView": ""
+  },
+  "feed": {
+    "indicators": "",
+    "pendencies": "",
+    "viewAll": "",
+    "employeesPresent": "",
+    "bankOfHours": "",
+    "sync": "",
+    "extraHours": ""
+  },
+  "records": {
+    "location": ""
+  },
+  "PendencyItem": {
+    "message_title": "",
+    "abono_title": "",
+    "add_punch_title": "",
+    "generic_title": "",
+    "attachment": "",
+    "reason": "",
+    "requested": "",
+    "got_it": "",
+    "approve_title": "Aprovar",
+    "approve_message": "Você tem certeza que deseja aprovar ",
+    "disapprove_title": "Recusar",
+    "disapprove_message": "Você tem certeza que deseja recusar ",
+    "read_title": "Entendi",
+    "read_message": "Você gostaria de confirmar que leu essa mensagem?",
+    "add_punch_confirms": "a inclusão de batida?",
+    "abono_confirms": "o abono?",
+    "cancel": ""
+  },
+  "AlertRefuse": {
+    "refuse": "",
+    "msg": "",
+    "cancel": ""
+  },
+  "AlertApproval": {
+    "approval": "",
+    "msg": ""
+  },
+  "AlertSync": {
+    "title": "",
+    "msg": "",
+    "sync": ""
+  }
+}

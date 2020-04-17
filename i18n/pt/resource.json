@@ -1,0 +1,79 @@
+{
+  "formLogin": {
+    "emailPlaceHolder": "email@email.com.br",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Senha",
+    "passwordPlaceHolder": "Senha",
+    "wrongEmail": "E-mail ou senha incorretos",
+    "submit": "ENTRAR",
+    "forgotPassword": "Esqueceu a senha?",
+    "acess": "Acesso via SSO",
+    "errorLabel": "E-mail ou senha incorretos",
+    "submiting": "ENTRANDO"
+  },
+  "employees": {
+    "emptyView": "Aqui colocarei os componente da pagina de funcionarios"
+  },
+  "home": {
+    "emptyView": "Aqui colocarei os componente de feed"
+  },
+  "pendencies": {
+    "pendencies": "Pendências"
+  },
+  "settings": {
+    "emptyView": "Configurações",
+    "notificacion": "Notificações",
+    "help": "Ajuda",
+    "version": "Versão",
+    "exit": "Sair do aplicativo"
+  },
+  "signUp": {
+    "emptyView": "Pagina de esqueceu a senha"
+  },
+  "feed": {
+    "indicators": "Indicadores",
+    "pendencies": "Pendências",
+    "viewAll": "Ver todas",
+    "employeesPresent": "Funcionários presentes",
+    "bankOfHours": "Banco de Horas",
+    "extraHours": "Horas Extras",
+    "foulHouras": "Falta",
+    "sync": "Sincronizar"
+  },
+  "records": {
+    "location": "Ver localização do ponto"
+  },
+  "PendencyItem": {
+    "message_title": "Mensagem de ",
+    "abono_title": "Abono de ",
+    "add_punch_title": "Inclusão de batida de ",
+    "generic_title": "Pendência de ",
+    "attachment": "Ver anexo",
+    "reason": "Motivo",
+    "requested": "Solicitado",
+    "got_it": "ENTENDI",
+    "approve_title": "Aprovar",
+    "approve_message": "Você tem certeza que deseja aprovar ",
+    "disapprove_title": "Recusar",
+    "disapprove_message": "Você tem certeza que deseja recusar ",
+    "read_title": "Confirmar",
+    "read_message": "Você gostaria de confirmar que leu essa mensagem?",
+    "add_punch_confirms": "a inclusão de batida?",
+    "abono_confirms": "o abono?",
+    "cancel": "Cancelar"
+  },
+  "AlertRefuse": {
+    "refuse": "Recusar",
+    "msg": "Você tem certeza que deseja recusar o abono?",
+    "cancel": "Cancelar"
+  },
+  "AlertApproval": {
+    "approval": "Aprovação",
+    "msg": "Você tem certeza que deseja aprovar a inclusão de batida?"
+  },
+  "AlertSync": {
+    "title": "Sincronização",
+    "msg": "A sincronização do banco de horas pode levar alguns minutos para concluir.",
+    "sync": "Sincronizar"
+  }
+}
